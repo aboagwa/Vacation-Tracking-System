@@ -44,14 +44,13 @@ This project is a web-based **Vacation Tracking System (VTS)** designed to strea
 ---
 
 ## 🧭 Use Case Diagram
-
-![Use Case Diagram](Screenshot_2025-05-25_174602.png)
+![Use Case Diagram](https://github.com/user-attachments/assets/1d13ee84-391d-4237-92d3-54d9d7ca820c)
 
 ---
 
 ## 🔁 Sequence Diagram: Manage Time Request
+![Sequence Diagram](https://github.com/user-attachments/assets/ca15eab6-ec63-4249-ae9e-70a71f080f6a)
 
-![Sequence Diagram](Screenshot_2025-05-25_173828.png)
 
 ---
 
