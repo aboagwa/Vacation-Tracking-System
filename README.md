@@ -137,7 +137,9 @@ FUNCTION handleManageTimeRequest(action, requestData):
 
 END FUNCTION
 
-## 📚 Reference
+----
+
+##📚 Reference
 
 Based on concepts from:
 
