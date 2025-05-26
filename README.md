@@ -1,4 +1,3 @@
-# Vacation-Tracking-System
 # Vacation Tracking System (VTS)
 
 ## 📘 Overview
@@ -55,7 +54,9 @@ This project is a web-based **Vacation Tracking System (VTS)** designed to strea
 ### 🧾 Flowchart: Vacation Request Submission
 ![Request Flowchart](https://github.com/aboagwa/Vacation-Tracking-System/blob/main/Flow-Chart.png)
 ---
+## 📊 Entity-Relationship Diagram (ERD)
 
+![ERD](![ERD drawio](https://github.com/user-attachments/assets/f1f3d879-607b-48d0-8993-f91b280553d1)) 
 ## ✍️ Pseudocode
 
 ```pseudocode
