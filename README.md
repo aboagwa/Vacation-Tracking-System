@@ -51,7 +51,9 @@ This project is a web-based **Vacation Tracking System (VTS)** designed to strea
 ## 🔁 Sequence Diagram: Manage Time Request
 ![Sequence Diagram](https://github.com/user-attachments/assets/ca15eab6-ec63-4249-ae9e-70a71f080f6a)
 
-
+---
+### 🧾 Flowchart: Vacation Request Submission
+![Request Flowchart](https://github.com/aboagwa/Vacation-Tracking-System/blob/main/Flow-Chart.png)
 ---
 
 ## ✍️ Pseudocode
@@ -134,3 +136,13 @@ FUNCTION handleManageTimeRequest(action, requestData):
     RETURN showError("Invalid action.")
 
 END FUNCTION
+
+## 📚 Reference
+
+Based on concepts from:
+
+**Object-Oriented Analysis and Design with Applications (3rd Edition)**  
+by Grady Booch  
+ISBN: 978-0201895513
+
+---
