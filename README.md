@@ -137,6 +137,15 @@ FUNCTION handleManageTimeRequest(action, requestData):
 
 END FUNCTION ```
 
+----
 
+##📚 Reference
 
+Based on concepts from:
+
+**Object-Oriented Analysis and Design with Applications (3rd Edition)**  
+by Grady Booch  
+ISBN: 978-0201895513
+
+---
 
