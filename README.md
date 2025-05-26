@@ -136,11 +136,11 @@ FUNCTION handleManageTimeRequest(action, requestData):
   ELSE:
     RETURN showError("Invalid action.")
 
-END FUNCTION ```
+END FUNCTION 
 
-----
+---
 
-##📚 Reference
+## 📚 Reference
 
 Based on concepts from:
 
@@ -149,4 +149,3 @@ by Grady Booch
 ISBN: 978-0201895513
 
 ---
-
